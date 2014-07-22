@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Anaconda",
+		"EmberScript",
+		"GitGutter",
+		"IPython Notebook",
+		"LaTeXTools"
+	]
+}
